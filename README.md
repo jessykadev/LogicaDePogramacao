@@ -1,6 +1,6 @@
 # Lógica de Programação | Exercícios
 
-Exercícios de Lógica de Programção 
+Exercícios de Lógica de Programação 
 Professor: Franklin Portela
 
 ## 📚 Documentação
